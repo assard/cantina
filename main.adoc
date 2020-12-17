@@ -4,10 +4,10 @@ Hello world
 
 == First Section
 
-* starter
+* starter : 
     French foie gras
-* meal
+* meal : 
     Bourguignon beef
-* dessert
+* dessert : 
     Aple
 
