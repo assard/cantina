@@ -1,8 +1,8 @@
-= Linguini menu !
+= Chez Gusteau !
 
-Chez Gusteau !
+image::./image/ChezGusteau.jpg[]
 
-== First Section
+== Linguini Menu
 
 * starter : 
     Soap
