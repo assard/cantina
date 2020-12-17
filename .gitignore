@@ -3,3 +3,6 @@
 
 # Compile directory
 dist
+
+# Forget html file
+*.html
