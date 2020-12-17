@@ -1,13 +1,13 @@
-= Cantina menu !
+= Linguini menu !
 
-Hello world
+Chez Gusteau !
 
 == First Section
 
 * starter : 
-    French foie gras
+    Soap
 * meal : 
-    Bourguignon beef
+    Ratatouille
 * dessert : 
-    Aple
+    Strawberry pie
 
